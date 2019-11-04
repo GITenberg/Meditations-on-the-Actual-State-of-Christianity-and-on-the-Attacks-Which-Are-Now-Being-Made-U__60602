@@ -1,0 +1,39 @@
+_repo: Meditations-on-the-Actual-State-of-Christianity-and-on-the-Attacks-Which-Are-Now-Being-Made-U__60602
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Guizot, François
+    aliases:
+    - Guizot, M. (François)
+    - Guizot, François Pierre Guillaume
+    - Guizot, Monsieur (François)
+    - Guisot, M. (François)
+    - Guizot, Francois Pierre Guillaume
+    birthdate: 1787
+    deathdate: 1874
+    gutenberg_agent_id: '5686'
+    url: http://www.gutenberg.org/2009/agents/5686
+    wikipedia:
+    - https://en.wikipedia.org/wiki/François_Guizot
+    - https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Guizot
+description: ''
+gutenberg_issued: '2019-10-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60602'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christianity'
+- !lcsh 'Religious thought -- 19th century'
+- !lcc 'BR'
+- !lcsh 'Philosophy and religion'
+- GITenberg
+tableOfContents: The awakening of Christianity in France in the nineteenth century
+  -- Spiritualism -- Rationalism -- Positivism -- Pantheism -- Materialism -- Skepticism
+  -- Impiety, recklessness, and perplexity.
+title: Meditations on the Actual State of Christianity, and on the Attacks Which Are
+  Now Being Made Upon It.
+url: http://www.gutenberg.org/ebooks/60602
